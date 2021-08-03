@@ -6,9 +6,9 @@ Some members are apprehensive of creating Facebook accounts due to privacy and i
 
 ###### Proposed Solution/Application
 ------------------------------------
-Prioritize :- Create a  platform  to collaborate with Parents and Teachers for the benefit and success of students 
-Authorize  :- Only authorized members can post and comment
-Monetize   :- Generate funds using in-app advertisements
+- Prioritize :- Create a  platform  to collaborate with Parents and Teachers for the benefit and success of students 
+- Authorize  :- Only authorized members can post and comment
+- Monetize   :- Generate funds using in-app advertisements
 
 ##### PTA-Collab Backend Architecture 
 -------------------------------------
