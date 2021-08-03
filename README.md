@@ -16,13 +16,16 @@ Monetize   :- Generate funds using in-app advertisements
 
 ##### Front-End Technologies 
 -----------------------------
+
 1.React 
 2.Tailwind Css
 3.Charkra UI
 4.Axios 
 5.BootStrap
+
 ##### Backend- Technologies /tools
 ---------------------------
+
 1.Java
 2. Microservices Architecture
 3. JWT token 
